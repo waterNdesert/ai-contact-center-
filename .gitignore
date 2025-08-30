@@ -19,3 +19,11 @@ venv.bak/
 
 # Docker
 data/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp

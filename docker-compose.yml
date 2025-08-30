@@ -1,8 +1,7 @@
 version: '3.8'
 
 services:
-  # We'll add our services here in the next steps
-  # Starting with Jambonz first
+  # We'll add Jambonz and other services here in the next steps
 
 volumes:
   # We'll define persistent volumes here
